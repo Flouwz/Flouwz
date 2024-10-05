@@ -1,8 +1,13 @@
-<h1 align="center">print("My name is Ettore!")</h1>
+<h1 align="center">print("Bom dia")</h1>
 
 ###
 
-<p align="left">🇧🇷 / 🇺🇸<br><br>🖥 Atualmente um estudante do IFPR / Actually an IFPR student<br><br>✨ Algumas linguagens de programação e softwares que utilizo / Some programing languages and softwares that I use:</p>
+<p align="left">🇧🇷 / 🇺🇸<br><br>🖥 Atualmente um estudante do IFPR / Actually an IFPR student<br><br><details><summary>Mais sobre mim / More about me</summary>
+  <ul> 
+    <li>😃 Meu nome é Ettore, e eu tenho 18 anos. / My name is Ettore, I'm 18 years old.</li>
+    <li>👀 Muita criatividade! (Ou não) / A lot of creativity! (Or not)</li>
+  </ul>
+</details><br><br>✨ Algumas linguagens de programação e softwares que utilizo / Some programing languages and softwares that I use:</p>
 
 ###
 
@@ -40,10 +45,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Flouwz/Flouwz/output/snake.svg" alt="Snake animation" />
 
 ###
 
