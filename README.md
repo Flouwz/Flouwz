@@ -7,7 +7,7 @@
     <li>😃 Meu nome é Ettore, e eu tenho 18 anos. / My name is Ettore, I'm 18 years old.</li>
     <li>👀 Muita criatividade! (Ou não) / A lot of creativity! (Or not)</li>
   </ul>
-</details><br><br>✨ Algumas linguagens de programação e softwares que utilizo / Some programing languages and softwares that I use:</p>
+</details><br>✨ Algumas linguagens de programação e softwares que utilizo / Some programing languages and softwares that I use:</p>
 
 ###
 
