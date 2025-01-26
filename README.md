@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🇧🇷 / 🇺🇸<br><br>🖥 Atualmente um estudante do IFPR / Actually an IFPR student<br><br><details><summary>Mais sobre mim / More about me</summary>
+<p align="left">🇧🇷 / 🇺🇸<br><br>🖥 Técnico em Informática - IFPR -> Engenheiro de Software - UniFatecie / IT - IFPR -> Software Engineer - UniFatecie <br><br><details><summary>Mais sobre mim / More about me</summary>
   <ul> 
     <li>😃 Meu nome é Ettore, e eu tenho 18 anos. / My name is Ettore, I'm 18 years old.</li>
     <li>👀 Muita criatividade! (Ou não) / A lot of creativity! (Or not)</li>
