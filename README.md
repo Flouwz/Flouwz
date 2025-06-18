@@ -4,10 +4,10 @@
 
 <p align="left">🇧🇷 / 🇺🇸<br><br>🖥 Técnico em Informática - IFPR -> Engenheiro de Software - UniFatecie / IT - IFPR -> Software Engineer - UniFatecie <br><br><details><summary>Mais sobre mim / More about me</summary>
   <ul> 
-    <li>😃 Meu nome é Ettore, e eu tenho 18 anos. / My name is Ettore, I'm 18 years old.</li>
-    <li>👀 Muita criatividade! / A lot of creativity!</li>
+    <li>Meu nome é Ettore, tenho 18 anos</li>
+    <li>Dev Java, JavaScript, SQL | T.I cursando Engenharia de Software</li>
   </ul>
-</details><br>✨ Algumas linguagens de programação e softwares que utilizo / Some programing languages and softwares that I use:</p>
+</details><br>Algumas linguagens de programação e softwares que utilizo</p>
 
 ###
 
