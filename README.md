@@ -1,6 +1,6 @@
 <h1 align="center">Ettore Jacovozzi</h1>
 <h2 align="center">Técnico em informática pelo IFPR</h2>
-<h3 align="center">Estudante de Engenharia de Software na UniFatecie</h3>
+<h3 align="center">Estudante de Engenharia de Software - IFPR Campus Paranavaí</h3>
 
 <p align="center">
   Cada vez mais aprendendo sobre <b>Desenvolvimento de Software</b>, <b>Inteligência Artificial</b> e <b>Tecnologias Frontend</b>.
@@ -8,10 +8,10 @@
 
 ---
 
-### Tecnologias que utilizo / que estou aprendendo
+### Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,ts,js,python,java,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,python,java,postgres" />
 </div>
 
 <br>
